@@ -1,5 +1,7 @@
 # Detadantic
 
+## Note: As both Deta and Pydantic v1 has changed a lot since the creation of this project, this is deprecated. See [SpaceModel](https://github.com/Jay184/spacemodel) instead.
+
 A wrapper providing Active-Record style access to Deta Bases using Pydantic.
 
 ```py
